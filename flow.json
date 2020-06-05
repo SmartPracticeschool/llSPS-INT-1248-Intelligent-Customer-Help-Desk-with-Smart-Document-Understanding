@@ -1,0 +1,1 @@
+[{"id":"616c96a7.e0c718","type":"function","z":"b2c2b8c5.4ec848","name":"F2","func":"if(msg.payload.output.error){\n    msg.payload = \"Please Rephrase!\";\n    return msg;\n}\nmsg.payload = msg.payload.output.text[0];\nreturn msg;","outputs":1,"noerr":0,"x":515,"y":240,"wires":[["6b53db42.ebfda4"]],"l":false}]
