@@ -2,28 +2,28 @@
 
 Table of Contents
 
-# 1.	Introduction
-# 1.1	Overview
-# 1.2	Purpose
-# 2.	Literature Survey
-# 2.1	Existing Problem
-# 2.2	Proposed Solution
-# 3.	Theoretical Analysis
-# 3.1	Block Diagram
-# 3.2	Hardware/Software Design
-# 4.	Experimental Investigation
-# 4.1	Screenshots
-# 5.	Flowchart
-# 6.	Result
-# 7.	Advantages & Disadvantages
-# 8.	Application
-# 9.	Conclusion
-# 10.	Future Scope
-# 11.	Bibliography
-# 11.1	Appendix
-# A.	Source Code
+1.	Introduction
+1.1	Overview
+1.2	Purpose
+2.	Literature Survey
+2.1	Existing Problem
+2.2	Proposed Solution
+3.	Theoretical Analysis
+3.1	Block Diagram
+3.2	Hardware/Software Design
+4.	Experimental Investigation
+4.1	Screenshots
+5.	Flowchart
+6.	Result
+7.	Advantages & Disadvantages
+8.	Application
+9.	Conclusion
+10.	Future Scope
+11.	Bibliography
+11.1	Appendix
+A.	Source Code
 
- 
+  
 1.Introduction
 
 1.1	Overview
