@@ -2,26 +2,26 @@
 
 Table of Contents
 
-1.	Introduction
-1.1	Overview
-1.2	Purpose
-2.	Literature Survey
-2.1	Existing Problem
-2.2	Proposed Solution
-3.	Theoretical Analysis
-3.1	Block Diagram
-3.2	Hardware/Software Design
-4.	Experimental Investigation
-4.1	Screenshots
-5.	Flowchart
-6.	Result
-7.	Advantages & Disadvantages
-8.	Application
-9.	Conclusion
-10.	Future Scope
-11.	Bibliography
-11.1	Appendix
-A.	Source Code
+# 1.	Introduction
+# 1.1	Overview
+# 1.2	Purpose
+# 2.	Literature Survey
+# 2.1	Existing Problem
+# 2.2	Proposed Solution
+# 3.	Theoretical Analysis
+# 3.1	Block Diagram
+# 3.2	Hardware/Software Design
+# 4.	Experimental Investigation
+# 4.1	Screenshots
+# 5.	Flowchart
+# 6.	Result
+# 7.	Advantages & Disadvantages
+# 8.	Application
+# 9.	Conclusion
+# 10.	Future Scope
+# 11.	Bibliography
+# 11.1	Appendix
+# A.	Source Code
 
  
 1.Introduction
@@ -488,18 +488,24 @@ Here I have used “ecobee3_UserGuide.pdf” to train the Watson discovery.
 
 
 
-	Node Red App Link: 
+# 	Node Red App Link: 
 https://intelligent-customer-help-desk-with-smart-document-sb26365.eu-gb.mybluemix.net/ui/ 
 
 
-	Watson Assistant Preview link: 
+# 	Watson Assistant Preview link: 
 https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=9731f335-d4b2-430f-b0ae-505287c9ee1e&serviceInstanceID=3b07405d-1544-4054-9847-5863fb6ae344
 
 
 
-	GitHub Link:
+# 	GitHub Link:
 https://github.com/SmartPracticeschool/llSPS-INT-1248-Intelligent-Customer-Help-Desk-with-Smart-Document-Understanding
 
 
-	YouTube Link:
+# 	YouTube Link:
  https://youtu.be/8CTir99Glm4
+ 
+
+# Feedback Video: https://drive.google.com/file/d/1U-B1LXQ1YVKIGXp63Py3n_paBGV3O22H/view?usp=sharing
+
+
+ 
