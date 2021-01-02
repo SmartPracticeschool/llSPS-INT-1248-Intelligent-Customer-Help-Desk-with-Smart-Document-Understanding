@@ -16,8 +16,5 @@ https://github.com/SmartPracticeschool/llSPS-INT-1248-Intelligent-Customer-Help-
 
 # 	YouTube Link:
 https://youtu.be/g-85oevgcTc
- 
 
-# Feedback Video: 
-https://drive.google.com/file/d/1U-B1LXQ1YVKIGXp63Py3n_paBGV3O22H/view?usp=sharing
-
+WARNING: SOME LINKS HAVE BEEN DEPRECATED
